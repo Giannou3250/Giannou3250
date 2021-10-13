@@ -20,7 +20,6 @@ Tools 🔧
    - WireShark
    - Unity
    - Android Studios
-   - shell scripting
  
  
  Database 💿
