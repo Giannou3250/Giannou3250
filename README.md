@@ -13,6 +13,7 @@ Programming Languages ✍️
    - Java
    - C/C++
    - C#
+   - ShellScript
 
 Tools 🔧 
 
@@ -20,6 +21,7 @@ Tools 🔧
    - WireShark
    - Unity
    - Android Studios
+   - React.js
  
  
  Database 💿
