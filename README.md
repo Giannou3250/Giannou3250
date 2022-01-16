@@ -14,6 +14,7 @@ Programming Languages ✍️
    - C/C++
    - C#
    - ShellScript
+   - HTML/CSS/Javascript
 
 Tools 🔧 
 
